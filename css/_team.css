@@ -1,0 +1,207 @@
+@media screen and (max-width: 2560px) {
+    .team {
+        padding-top: 60px;
+        padding-bottom: 80px;
+        background-color: #EEEEEE;
+    }
+
+    .team-container {
+        margin: 0 auto;
+        max-width: 1110px;
+    }
+
+    .team__header {
+        font-size: 64px;
+        text-align: center;
+        color: #007765;
+        margin-bottom: 32px;
+    }
+
+    .team-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .team-card {
+        margin-bottom: 30px;
+        flex-basis: 30%;
+    }
+
+    .team-card__photo {
+        margin-bottom: 12px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .team-card__name {
+        font-size: 24px;
+        color: #007765;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .team-card__profession {
+        font-size: 18px;
+        font-style: italic;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .team {
+        padding-top: 60px;
+        padding-bottom: 80px;
+        background-color: #EEEEEE;
+    }
+
+    .team-container {
+        margin: 0 auto;
+        max-width: 1110px;
+    }
+
+    .team__header {
+        font-size: 64px;
+        text-align: center;
+        color: #007765;
+        margin-bottom: 32px;
+    }
+
+    .team-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .team-card {
+        margin-bottom: 30px;
+        flex-basis: 30%;
+    }
+
+    .team-card__photo {
+        margin-bottom: 12px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .team-card__name {
+        font-size: 24px;
+        color: #007765;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .team-card__profession {
+        font-size: 18px;
+        font-style: italic;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .team {
+        padding-top: 60px;
+        padding-bottom: 80px;
+        background-color: #EEEEEE;
+    }
+
+    .team-container {
+        margin: 0 auto;
+        max-width: 900px;
+    }
+
+    .team__header {
+        font-size: 64px;
+        text-align: center;
+        color: #007765;
+        margin-bottom: 32px;
+    }
+
+    .team-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .team-card {
+        margin-bottom: 30px;
+        flex-basis: 30%;
+    }
+
+    .team-card__photo {
+        margin-bottom: 12px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .team-card__name {
+        font-size: 24px;
+        color: #007765;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .team-card__profession {
+        font-size: 18px;
+        font-style: italic;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .team {
+        padding-top: 60px;
+        padding-bottom: 80px;
+        background-color: #EEEEEE;
+    }
+
+    .team-container {
+        margin: 0 auto;
+        max-width: 600px;
+    }
+
+    .team__header {
+        font-size: 64px;
+        text-align: center;
+        color: #007765;
+        margin-bottom: 32px;
+    }
+
+    .team-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .team-card {
+        margin-bottom: 30px;
+        flex-basis: 30%;
+    }
+
+    .team-card__photo {
+        margin-bottom: 12px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .team-card__name {
+        font-size: 24px;
+        color: #007765;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .team-card__profession {
+        font-size: 18px;
+        font-style: italic;
+        text-align: center;
+    }
+}

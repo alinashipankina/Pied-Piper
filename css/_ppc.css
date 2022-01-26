@@ -1,0 +1,119 @@
+@media screen and (max-width: 2560px) {
+    .ppc {
+        padding-top: 50px;
+        padding-bottom: 90px;
+    }
+
+    .ppc-container {
+        margin: 0 auto;
+        max-width: 1110px;
+    }
+
+    .ppc__header {
+        font-size: 64px;
+        color: #007765;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+
+    .ppc__logo {
+        float: left;
+        margin-right: 48px;
+    }
+
+    .ppc__description {
+        font-size: 32px;
+        line-height: 37.5px;
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .ppc {
+        padding-top: 50px;
+        padding-bottom: 90px;
+    }
+
+    .ppc-container {
+        margin: 0 auto;
+        max-width: 1110px;
+    }
+
+    .ppc__header {
+        font-size: 64px;
+        color: #007765;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+
+    .ppc__logo {
+        float: left;
+        margin-right: 48px;
+    }
+
+    .ppc__description {
+        font-size: 32px;
+        line-height: 37.5px;
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .ppc {
+        padding-top: 50px;
+        padding-bottom: 90px;
+    }
+
+    .ppc-container {
+        margin: 0 auto;
+        max-width: 900px;
+    }
+
+    .ppc__header {
+        font-size: 64px;
+        color: #007765;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+
+    .ppc__logo {
+        float: left;
+        margin-right: 48px;
+    }
+
+    .ppc__description {
+        font-size: 32px;
+        line-height: 37.5px;
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .ppc {
+        padding-top: 50px;
+        padding-bottom: 90px;
+    }
+
+    .ppc-container {
+        margin: 0 auto;
+        max-width: 600px;
+    }
+
+    .ppc__header {
+        font-size: 64px;
+        color: #007765;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+
+    .ppc__logo {
+        float: left;
+        margin-right: 48px;
+    }
+
+    .ppc__description {
+        font-size: 32px;
+        line-height: 37.5px;
+        margin-bottom: 40px;
+    }
+}

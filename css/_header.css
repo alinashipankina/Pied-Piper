@@ -1,0 +1,166 @@
+@media screen and (max-width: 2560px) {
+    .header {
+        position: fixed;
+        width: 100%;
+        background-color: #007765;
+    }
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1110px;
+        margin: 0 auto;
+    }
+
+    .header__logo {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .header-links {
+        font-size: 24px;
+    }
+
+    .header-links__link, .header-links__link__ppc {
+        color: #fff;
+        font-weight: 400;
+    }
+
+    .header-links__link__ppc {
+        border-left: 2.5px solid #fff;
+        border-right: 2.5px solid #fff;
+        padding: 5px;
+    }
+
+
+    #problem, #ppc, #team {
+        padding-top: 84px;
+        margin-top: -84px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .header {
+        position: fixed;
+        width: 100%;
+        background-color: #007765;
+    }
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1110px;
+        margin: 0 auto;
+    }
+
+    .header__logo {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .header-links {
+        font-size: 24px;
+    }
+
+    .header-links__link {
+        color: #fff;
+        font-weight: 400;
+    }
+
+    .header-links__link2 {
+        border-left: 2.5px solid #fff;
+        border-right: 2.5px solid #fff;
+        padding: 5px;
+    }
+
+
+    #problem, #ppc, #team {
+        padding-top: 84px;
+        margin-top: -84px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .header {
+        position: fixed;
+        width: 100%;
+        background-color: #007765;
+    }
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .header__logo {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .header-links {
+        font-size: 24px;
+    }
+
+    .header-links__link, .header-links__link__ppc {
+        color: #fff;
+        font-weight: 400;
+    }
+
+    .header-links__link__ppc {
+        border-left: 2.5px solid #fff;
+        border-right: 2.5px solid #fff;
+        padding: 5px;
+    }
+
+
+    #problem, #ppc, #team {
+        padding-top: 84px;
+        margin-top: -84px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        position: fixed;
+        width: 100%;
+        background-color: #007765;
+    }
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .header__logo {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .header-links {
+        font-size: 24px;
+    }
+
+    .header-links__link, .header-links__link__ppc {
+        color: #fff;
+        font-weight: 400;
+    }
+
+    .header-links__link__ppc {
+        border-left: 2.5px solid #fff;
+        border-right: 2.5px solid #fff;
+        padding: 5px;
+    }
+
+    #problem, #ppc, #team {
+        padding-top: 84px;
+        margin-top: -84px;
+    }
+}
